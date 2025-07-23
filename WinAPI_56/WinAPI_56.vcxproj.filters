@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>01. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>01. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>01. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="WinAPI_56.h">
+      <Filter>01. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>02. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>03. Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>02. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Actor.h">
+      <Filter>07. Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>02. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="enum.h">
+      <Filter>02. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>06. Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>07. Actor\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Rabbit.h">
+      <Filter>07. Actor\Rabbit</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeMgr.h">
+      <Filter>04. Manager\TimeMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="PathMgr.h">
+      <Filter>04. Manager\PathMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Asset.h">
+      <Filter>05. Asset</Filter>
+    </ClInclude>
+    <ClInclude Include="ATexture.h">
+      <Filter>05. Asset\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetMgr.h">
+      <Filter>04. Manager\AssetMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ASprite.h">
+      <Filter>05. Asset\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>08. Component</Filter>
+    </ClInclude>
+    <ClInclude Include="FlipbookPlayer.h">
+      <Filter>08. Component\FlipbookPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>08. Component\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="StateMachine.h">
+      <Filter>08. Component\StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="RigidBody.h">
+      <Filter>08. Component\RigidBody</Filter>
+    </ClInclude>
+    <ClInclude Include="AFlipbook.h">
+      <Filter>05. Asset\Flipbook</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelMgr.h">
+      <Filter>04. Manager\LevelMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>04. Manager\KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>09. State</Filter>
+    </ClInclude>
+    <ClInclude Include="Idle_Player.h">
+      <Filter>09. State\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Move_Player.h">
+      <Filter>09. State\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderMgr.h">
+      <Filter>04. Manager\RenderMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="func.h">
+      <Filter>02. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>04. Manager\CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Missile.h">
+      <Filter>07. Actor\Missile</Filter>
+    </ClInclude>
+    <ClInclude Include="EventMgr.h">
+      <Filter>04. Manager\EventMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>04. Manager\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="imconfig.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_opengl3.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_opengl3_loader.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_win32.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_internal.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_rectpack.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_textedit.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_truetype.h">
+      <Filter>ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Base.h" />
+    <ClInclude Include="Ground.h">
+      <Filter>07. Actor\Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_Editor.h">
+      <Filter>06. Level\01. Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_Start.h">
+      <Filter>06. Level\02. Start</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_Stage01.h">
+      <Filter>06. Level\04. Stage_01</Filter>
+    </ClInclude>
+    <ClInclude Include="video_reader.h">
+      <Filter>Video</Filter>
+    </ClInclude>
+    <ClInclude Include="VideoPlayer.h">
+      <Filter>Video</Filter>
+    </ClInclude>
+    <ClInclude Include="TileRender.h">
+      <Filter>08. Component\TileRender</Filter>
+    </ClInclude>
+    <ClInclude Include="TileActor.h">
+      <Filter>07. Actor\TIleActor</Filter>
+    </ClInclude>
+    <ClInclude Include="AVideo.h">
+      <Filter>05. Asset\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="TextMgr.h">
+      <Filter>04. Manager\TextMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderLoader.h">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>07. Actor\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnUI.h">
+      <Filter>07. Actor\UI\BtnUI</Filter>
+    </ClInclude>
+    <ClInclude Include="PanelUI.h">
+      <Filter>07. Actor\UI\PanelUI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIMgr.h">
+      <Filter>04. Manager\UIMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>07. Actor\UI\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="ASound.h">
+      <Filter>05. Asset\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageUI.h">
+      <Filter>07. Actor\UI\ImageUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_FlipbookEditor.h">
+      <Filter>06. Level\01. Editor\FlipbookEdit</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteRender.h">
+      <Filter>08. Component\SpriteRender</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteActor.h">
+      <Filter>07. Actor\FlipbookActor</Filter>
+    </ClInclude>
+    <ClInclude Include="FlipbookPreview.h">
+      <Filter>07. Actor\FlipbookPreview</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack_Player.h">
+      <Filter>09. State\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="HitBox.h">
+      <Filter>07. Actor\HitBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Potion_Player.h">
+      <Filter>09. State\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Seed_Player.h">
+      <Filter>09. State\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Water_Player.h">
+      <Filter>09. State\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Interact_Player.h">
+      <Filter>09. State\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Strawberrry.h">
+      <Filter>07. Actor\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Wagon.h">
+      <Filter>07. Actor\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>07. Actor\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool.h">
+      <Filter>07. Actor\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMgr.h">
+      <Filter>04. Manager\GameMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.h">
+      <Filter>08. Component\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="Cloud.h">
+      <Filter>07. Actor\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_Ending.h">
+      <Filter>06. Level\05. Ending</Filter>
+    </ClInclude>
+    <ClInclude Include="Gotcha.h">
+      <Filter>07. Actor\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Idle_Rabbit.h">
+      <Filter>09. State\RabbitState</Filter>
+    </ClInclude>
+    <ClInclude Include="Trace_Rabbit.h">
+      <Filter>09. State\RabbitState</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack_Rabbit.h">
+      <Filter>09. State\RabbitState</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_Tutorial.h">
+      <Filter>06. Level\03. Tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="Die_Rabbit.h">
+      <Filter>09. State\RabbitState</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>01. Default</Filter>
+    </Image>
+    <Image Include="WinAPI_56.ico">
+      <Filter>01. Default</Filter>
+    </Image>
+    <Image Include="icon.ico">
+      <Filter>01. Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="01. Default">
+      <UniqueIdentifier>{fb169fdb-379c-4a8b-8d73-34d300f7f167}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Header">
+      <UniqueIdentifier>{8aa83f07-21ab-4310-97e1-f02c8dd08acb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager">
+      <UniqueIdentifier>{ba6f704b-bc86-427b-9cde-ab1978ceace7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Asset">
+      <UniqueIdentifier>{8bc8d804-f472-4565-9091-3141e17896ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor">
+      <UniqueIdentifier>{6956d019-7268-42ca-bd0e-5690127f80f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Component">
+      <UniqueIdentifier>{8a6a8a1b-6521-4cad-8d2e-b443fe51486e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06. Level">
+      <UniqueIdentifier>{38dd5ca5-31f5-4dc6-9b4d-368f27cf7088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\Player">
+      <UniqueIdentifier>{412307f2-eed7-499f-b7dd-1d8ac23e6f4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\TimeMgr">
+      <UniqueIdentifier>{4105fb49-4219-4104-9e46-3dfcb2045697}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Asset\Texture">
+      <UniqueIdentifier>{616cd430-78da-46b6-bf71-ad8b7cb147e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Asset\Sound">
+      <UniqueIdentifier>{f9de3401-f553-4afd-9ad6-a76b15687e45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\AssetMgr">
+      <UniqueIdentifier>{96fbb8f9-ccd7-457c-a4a8-feac967a71f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Asset\Sprite">
+      <UniqueIdentifier>{eca97c85-529f-4ce2-93c7-8923569a2261}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Component\Collider">
+      <UniqueIdentifier>{5b6127cc-93fd-4135-a8d9-775d251629f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Component\FlipbookPlayer">
+      <UniqueIdentifier>{39de74a6-5324-4486-804b-e0a892eb6b2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Component\RigidBody">
+      <UniqueIdentifier>{87470fa5-ee13-44e4-ac0f-681e0d30b83e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Component\StateMachine">
+      <UniqueIdentifier>{14823499-4a5e-497a-b2f5-54399cfe60b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Asset\Flipbook">
+      <UniqueIdentifier>{9dbc354c-a470-4a90-90c7-dbce6f8bd1ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\LevelMgr">
+      <UniqueIdentifier>{7b8f3292-80e0-4eb9-a2bc-4797c00b56c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\KeyMgr">
+      <UniqueIdentifier>{fb5ee828-6f6e-4be2-b26b-496d034214bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. State">
+      <UniqueIdentifier>{c695154f-4e4b-42b3-aafc-95f3063a6a45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. State\PlayerState">
+      <UniqueIdentifier>{10cfe6c9-aa66-4780-9233-dcd04759bc71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\RenderMgr">
+      <UniqueIdentifier>{c42b5dce-1910-4bbf-a212-07689d3c2aef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\CollisionMgr">
+      <UniqueIdentifier>{fce851f5-21cd-4bd8-8941-c383efe7420a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\Missile">
+      <UniqueIdentifier>{288caf06-f0a0-41c6-9075-24e475d4a426}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\EventMgr">
+      <UniqueIdentifier>{796791f0-033a-4594-845c-3daaecb45e1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\Camera">
+      <UniqueIdentifier>{a9d1fd5d-1234-461d-97c0-e7603ce06d5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImGUI">
+      <UniqueIdentifier>{42ab0ba8-2d6e-4685-a630-2f3769add0f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Video">
+      <UniqueIdentifier>{6b04e1c3-e06e-40ef-bc25-55596a80b31f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06. Level\01. Editor">
+      <UniqueIdentifier>{b399828c-eb4b-4caa-8346-580e0559113d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06. Level\02. Start">
+      <UniqueIdentifier>{2dce6909-1bcb-4361-81ff-be94a6eeef4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Component\TileRender">
+      <UniqueIdentifier>{05cddfe9-e6e2-48e5-a823-c7b260e55e26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\TIleActor">
+      <UniqueIdentifier>{957b9330-49f1-436c-83bd-47dcbc76a433}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Engine">
+      <UniqueIdentifier>{f23ef711-6396-4afb-87bf-9385390ff486}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Asset\Video">
+      <UniqueIdentifier>{0b719116-d9c1-459e-8159-cb518be1dc75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\TextMgr">
+      <UniqueIdentifier>{55aa6a27-71b6-44a2-96fa-43f12de4fb5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{e8c88e75-d4af-4c59-9f81-14e61854fe78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\UI">
+      <UniqueIdentifier>{fb79ac09-cc9e-48b6-a4d8-9eacc94af01d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\UI\BtnUI">
+      <UniqueIdentifier>{8d412922-be49-475c-a116-94bd9830b097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\UI\PanelUI">
+      <UniqueIdentifier>{c264902f-0e88-46d1-86d7-6c13edb6d894}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\UIMgr">
+      <UniqueIdentifier>{17df20bb-bab4-4d89-8804-a87fe9b6618c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\UI\Text">
+      <UniqueIdentifier>{35386857-aaa3-4756-ac17-57dce1fafdf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\UI\ImageUI">
+      <UniqueIdentifier>{1a5766d0-5c81-4396-bf6e-767a2695c002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06. Level\01. Editor\FlipbookEdit">
+      <UniqueIdentifier>{8e404594-626b-4c52-8379-48ec8f67069c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\PathMgr">
+      <UniqueIdentifier>{10919f24-0503-4a98-b9e6-a54dd52c662f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Component\SpriteRender">
+      <UniqueIdentifier>{f139871f-e7b4-485d-85cd-ab328c3f9786}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\FlipbookActor">
+      <UniqueIdentifier>{2a3ea249-3559-4ef5-945b-6e69db693ece}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\FlipbookPreview">
+      <UniqueIdentifier>{f9a5d1fb-450a-417b-9bdb-ed260ea7df5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\HitBox">
+      <UniqueIdentifier>{314b8c3a-89b8-4b6a-b804-946851d25416}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\Objects">
+      <UniqueIdentifier>{f8b44872-15ea-4e9b-abd6-c3b1bb7ad3fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\Ground">
+      <UniqueIdentifier>{0e86f452-944f-4905-9465-3dae19559744}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\GameMgr">
+      <UniqueIdentifier>{069d035a-7b6d-4cb1-96dc-5609919c78b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Component\Animator">
+      <UniqueIdentifier>{58cd99ef-ded4-48dd-b824-58960c7ef033}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Actor\Rabbit">
+      <UniqueIdentifier>{60bbbfc9-e17a-49a3-82bc-06fcae3d3a9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09. State\RabbitState">
+      <UniqueIdentifier>{feef6b37-d614-406d-8ae6-1387d6312782}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06. Level\03. Tutorial">
+      <UniqueIdentifier>{0d7f7390-0c1d-48a4-bc9e-7863595ab7a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06. Level\04. Stage_01">
+      <UniqueIdentifier>{fea49860-bbaf-4f0c-ba00-86e0773aae52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06. Level\05. Ending">
+      <UniqueIdentifier>{30a03ecd-5040-4f33-b78e-896ec0eababa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WinAPI_56.rc">
+      <Filter>01. Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Engine.cpp">
+      <Filter>03. Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Actor.cpp">
+      <Filter>07. Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>06. Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>07. Actor\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Rabbit.cpp">
+      <Filter>07. Actor\Rabbit</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeMgr.cpp">
+      <Filter>04. Manager\TimeMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="PathMgr.cpp">
+      <Filter>04. Manager\PathMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Asset.cpp">
+      <Filter>05. Asset</Filter>
+    </ClCompile>
+    <ClCompile Include="ATexture.cpp">
+      <Filter>05. Asset\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetMgr.cpp">
+      <Filter>04. Manager\AssetMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="ASprite.cpp">
+      <Filter>05. Asset\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>08. Component</Filter>
+    </ClCompile>
+    <ClCompile Include="FlipbookPlayer.cpp">
+      <Filter>08. Component\FlipbookPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>08. Component\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="StateMachine.cpp">
+      <Filter>08. Component\StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="RigidBody.cpp">
+      <Filter>08. Component\RigidBody</Filter>
+    </ClCompile>
+    <ClCompile Include="AFlipbook.cpp">
+      <Filter>05. Asset\Flipbook</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelMgr.cpp">
+      <Filter>04. Manager\LevelMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>04. Manager\KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>09. State</Filter>
+    </ClCompile>
+    <ClCompile Include="Idle_Player.cpp">
+      <Filter>09. State\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Move_Player.cpp">
+      <Filter>09. State\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderMgr.cpp">
+      <Filter>04. Manager\RenderMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="func.cpp">
+      <Filter>02. Header</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>04. Manager\CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Missile.cpp">
+      <Filter>07. Actor\Missile</Filter>
+    </ClCompile>
+    <ClCompile Include="EventMgr.cpp">
+      <Filter>04. Manager\EventMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>04. Manager\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_demo.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_draw.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_opengl3.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_win32.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_tables.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_widgets.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Base.cpp" />
+    <ClCompile Include="Ground.cpp">
+      <Filter>07. Actor\Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="video_reader.cpp">
+      <Filter>Video</Filter>
+    </ClCompile>
+    <ClCompile Include="Level_Editor.cpp">
+      <Filter>06. Level\01. Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Level_Start.cpp">
+      <Filter>06. Level\02. Start</Filter>
+    </ClCompile>
+    <ClCompile Include="Level_Stage01.cpp">
+      <Filter>06. Level\04. Stage_01</Filter>
+    </ClCompile>
+    <ClCompile Include="VideoPlayer.cpp">
+      <Filter>Video</Filter>
+    </ClCompile>
+    <ClCompile Include="TileRender.cpp">
+      <Filter>08. Component\TileRender</Filter>
+    </ClCompile>
+    <ClCompile Include="TileActor.cpp">
+      <Filter>07. Actor\TIleActor</Filter>
+    </ClCompile>
+    <ClCompile Include="AVideo.cpp">
+      <Filter>05. Asset\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="TextMgr.cpp">
+      <Filter>04. Manager\TextMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>02. Header</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderLoader.cpp">
+      <Filter>Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>07. Actor\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnUI.cpp">
+      <Filter>07. Actor\UI\BtnUI</Filter>
+    </ClCompile>
+    <ClCompile Include="PanelUI.cpp">
+      <Filter>07. Actor\UI\PanelUI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIMgr.cpp">
+      <Filter>04. Manager\UIMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>07. Actor\UI\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="ASound.cpp">
+      <Filter>05. Asset\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageUI.cpp">
+      <Filter>07. Actor\UI\ImageUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Level_FlipbookEditor.cpp">
+      <Filter>06. Level\01. Editor\FlipbookEdit</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteRender.cpp">
+      <Filter>08. Component\SpriteRender</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteActor.cpp">
+      <Filter>07. Actor\FlipbookActor</Filter>
+    </ClCompile>
+    <ClCompile Include="FlipbookPreview.cpp">
+      <Filter>07. Actor\FlipbookPreview</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack_Player.cpp">
+      <Filter>09. State\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="HitBox.cpp">
+      <Filter>07. Actor\HitBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Potion_Player.cpp">
+      <Filter>09. State\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Seed_Player.cpp">
+      <Filter>09. State\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Water_Player.cpp">
+      <Filter>09. State\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Interact_Player.cpp">
+      <Filter>09. State\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Strawberrry.cpp">
+      <Filter>07. Actor\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Wagon.cpp">
+      <Filter>07. Actor\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>07. Actor\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool.cpp">
+      <Filter>07. Actor\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMgr.cpp">
+      <Filter>04. Manager\GameMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>08. Component\Animator</Filter>
+    </ClCompile>
+    <ClCompile Include="Cloud.cpp">
+      <Filter>07. Actor\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Level_Ending.cpp">
+      <Filter>06. Level\05. Ending</Filter>
+    </ClCompile>
+    <ClCompile Include="Gotcha.cpp">
+      <Filter>07. Actor\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Idle_Rabbit.cpp">
+      <Filter>09. State\RabbitState</Filter>
+    </ClCompile>
+    <ClCompile Include="Trace_Rabbit.cpp">
+      <Filter>09. State\RabbitState</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack_Rabbit.cpp">
+      <Filter>09. State\RabbitState</Filter>
+    </ClCompile>
+    <ClCompile Include="Level_Tutorial.cpp">
+      <Filter>06. Level\03. Tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="Die_Rabbit.cpp">
+      <Filter>09. State\RabbitState</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\OutputFile\Content\Shaders\text.fs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\OutputFile\Content\Shaders\text.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="..\OutputFile\Content\Cursor\Strawberry.cur">
+      <Filter>01. Default</Filter>
+    </None>
+  </ItemGroup>
+</Project>
