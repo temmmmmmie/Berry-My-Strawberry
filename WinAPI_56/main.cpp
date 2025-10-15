@@ -20,7 +20,7 @@ int APIENTRY wWinMain(_In_     HINSTANCE hInstance,         // 실행된 프로�
                       _In_     int       nCmdShow)
 {   
     _CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
-    //_CrtSetBreakAlloc(21798);
+    //_CrtSetBreakAlloc(440);
     SetProcessDpiAwarenessContext(DPI_AWARENESS_CONTEXT_PER_MONITOR_AWARE_V2);
     // 생성시킬 윈도우 옵션 설정
     WNDCLASSEXW wcex = {};

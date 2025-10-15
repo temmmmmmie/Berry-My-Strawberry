@@ -1,16 +1,1 @@
-﻿  Level_Stage01.cpp
-C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
-  (소스 파일 '/Level_Stage01.cpp'을(를) 컴파일하는 중)
-      C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5):
-      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
-          C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Stage01.cpp(319,11):
-          컴파일되는 함수 템플릿 인스턴스화 'T GetRandomNum<int>(T,T)'에 대한 참조를 확인하세요.
-          with
-          [
-              T=int
-          ]
-  
-C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(43,10): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
-  (소스 파일 '/Level_Stage01.cpp'을(를) 컴파일하는 중)
-  
-  WinAPI_56.vcxproj -> C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\MyGame_Debug.exe
+﻿  WinAPI_56.vcxproj -> C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\MyGame_Debug.exe

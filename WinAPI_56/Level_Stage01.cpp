@@ -334,7 +334,7 @@ void Level_Stage01::SpawnRabbit(int _num)
 		pRabbit->SetPos(Randompos);
 		pRabbit->Settarget();
 		pRabbit->SetScale(Vec2(1, 1));
-		AddActor(ENERMY, pRabbit);
+		AddActor(ENERMY2, pRabbit);
 	}
 
 }

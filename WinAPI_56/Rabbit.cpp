@@ -6,6 +6,7 @@
 #include "AssetMgr.h"
 #include "RenderMgr.h"
 #include "LevelMgr.h"
+#include "Level.h"
 #include "FlipbookPlayer.h"
 #include "StateMachine.h"
 #include "RigidBody.h"
@@ -106,6 +107,14 @@ void Rabbit::Tick()
 	}
 	else {
 		m_Dir = DIR::LEFT;
+	}
+
+	if (GetPos().y > 130) {
+		LevelMgr::GetInst()->GetCurrentLevel()->MoveActor(this, ENERMY2);
+	}
+	else
+	{
+		LevelMgr::GetInst()->GetCurrentLevel()->MoveActor(this, ENERMY);
 	}
 }
 

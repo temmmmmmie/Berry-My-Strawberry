@@ -37,6 +37,7 @@ public:
 	Vec2 GetRenderPos();
 	Vec2 GetScale() { return m_Scale; }
 	ACTOR_TYPE GetActorType() { return m_ActorType; }
+	void SetActorType(ACTOR_TYPE _type) { m_ActorType = _type; }
 
 	void Destroy();
 

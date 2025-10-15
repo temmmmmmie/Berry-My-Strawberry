@@ -41,6 +41,11 @@ AssetMgr::~AssetMgr()
 	{
 		delete FIter->second;
 	}
+	map<wstring, ASound*>::iterator Sounditer = m_mapSound.begin();
+	for (; Sounditer != m_mapSound.end(); ++Sounditer)
+	{
+		delete Sounditer->second;
+	}
 }
 
 void AssetMgr::Init()

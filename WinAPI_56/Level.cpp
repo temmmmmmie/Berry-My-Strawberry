@@ -76,6 +76,20 @@ void Level::MoveActor(ACTOR_TYPE _from, ACTOR_TYPE _to) {
 	m_vecActor[_to] = m_vecActor[_from];
 	m_vecActor[_from].clear();
 }
+
+void Level::MoveActor(Actor* _from, ACTOR_TYPE _to) {
+	if (_from->GetActorType() == _to) return;
+	vector<Actor*>& fromvec = m_vecActor[_from->GetActorType()];
+	if (fromvec.empty()) return;
+
+	auto found = find(fromvec.begin(), fromvec.end(), _from);
+	if(found != fromvec.end())fromvec.erase(found);
+	
+	m_vecActor[_to].push_back(_from);
+	_from->SetActorType(_to);
+
+}
+
 void Level::AddActor(ACTOR_TYPE _Idx, Actor* _Actor)
 {
 	m_vecActor[_Idx].push_back(_Actor);
