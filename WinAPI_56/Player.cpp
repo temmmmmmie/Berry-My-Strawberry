@@ -81,7 +81,13 @@ Player::~Player()
 
 void Player::Tick()
 {	
-
+	if (GetPos().y > 130) {
+		LevelMgr::GetInst()->GetCurrentLevel()->MoveActor(PLAYER, PLAYER2);
+	}
+	else
+	{
+		LevelMgr::GetInst()->GetCurrentLevel()->MoveActor(PLAYER2, PLAYER);
+	}
 }
 
 void Player::Render(HDC _dc)

@@ -71,7 +71,11 @@ void Level::Render(HDC _dc)
 	}
 }
 
-
+void Level::MoveActor(ACTOR_TYPE _from, ACTOR_TYPE _to) {
+	if (m_vecActor[_from].empty()) return;
+	m_vecActor[_to] = m_vecActor[_from];
+	m_vecActor[_from].clear();
+}
 void Level::AddActor(ACTOR_TYPE _Idx, Actor* _Actor)
 {
 	m_vecActor[_Idx].push_back(_Actor);

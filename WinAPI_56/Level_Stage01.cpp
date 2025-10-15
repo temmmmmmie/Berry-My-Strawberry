@@ -72,14 +72,14 @@ void Level_Stage01::Begin()
 	AddActor(PLAYER, pActor);
 
 	ATexture* tex4 = AssetMgr::GetInst()->LoadTexture(L"tableLeft", L"Texture\\tableLeft.png");
-	Actor* pTableActor1 = new Object(tex4, true, Vec2(280, 200), Vec2(-20, -20));
+	Actor* pTableActor1 = new Object(tex4, true, Vec2(280, 120), Vec2(-20, -50));
 	pTableActor1->SetName(L"Table1");
 	pTableActor1->SetPos(Vec2(-450, 180));
 	pTableActor1->SetScale(Vec2(1, 1));
 	AddActor(OBJECT, pTableActor1);
 
 	ATexture* tex5 = AssetMgr::GetInst()->LoadTexture(L"tableRight", L"Texture\\tableRight.png");
-	Actor* pTableActor2 = new Object(tex5, true, Vec2(280, 200), Vec2(-20, -20));
+	Actor* pTableActor2 = new Object(tex5, true, Vec2(280, 120), Vec2(-20, -50));
 	pTableActor2->SetName(L"Table2");
 	pTableActor2->SetPos(Vec2(200, 180));
 	pTableActor2->SetScale(Vec2(1, 1));
