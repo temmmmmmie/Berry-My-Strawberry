@@ -147,7 +147,7 @@ void HitBox::BeginOverlap(Collider* _OwnCollider, Actor* _OtherActor, Collider* 
 
 		}
 	}
-	else if (m_Player->GetHand() == ITEMS::SWORD &&_OtherActor->GetActorType() == ENERMY) {
+	else if (m_Player->GetHand() == ITEMS::SWORD &&(_OtherActor->GetActorType() == ENERMY|| _OtherActor->GetActorType() == ENERMY2)) {
 		dynamic_cast<Rabbit*>(_OtherActor)->Die();
 	}
 }

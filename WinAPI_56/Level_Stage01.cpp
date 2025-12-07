@@ -36,6 +36,7 @@ void Level_Stage01::Begin()
 	CollisionMgr::GetInst()->CollisionCheck(PLAYER_PROJECTILE, INTERACTABLE, true);
 	CollisionMgr::GetInst()->CollisionCheck(PLAYER_PROJECTILE, STRAWBERRY, true);
 	CollisionMgr::GetInst()->CollisionCheck(PLAYER_PROJECTILE, ENERMY, true);
+	CollisionMgr::GetInst()->CollisionCheck(PLAYER_PROJECTILE, ENERMY2, true);
 	CollisionMgr::GetInst()->CollisionCheck(STRAWBERRY, ENERMY, true);
 	{
 		ATexture* tex2 = AssetMgr::GetInst()->LoadTexture(L"sky", L"Texture\\sky.png");
