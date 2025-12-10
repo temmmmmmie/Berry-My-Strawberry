@@ -99,7 +99,7 @@ void Rabbit::Begin()
 
 void Rabbit::Tick()
 {
-	if ( abs(GetPos().x - m_Target.x) < 10 && abs(GetPos().y - m_Target.y) < 10) Arrived = true;
+	if ( abs(GetPos().x - m_Target.x) < 15 && abs(GetPos().y - m_Target.y) < 15) Arrived = true;
 	else Arrived = false;
 
 	if (m_Rigid->GetVelocity().x > 0) {

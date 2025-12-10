@@ -52,7 +52,7 @@ RenderMgr::~RenderMgr()
 
 }
 
-void RenderMgr::InitOpenGL(HWND _hwnd) {
+void RenderMgr::InitOpenGL(HWND	 _hwnd) {
 	PIXELFORMATDESCRIPTOR pfd = { sizeof(PIXELFORMATDESCRIPTOR), 1 };
 	pfd.dwFlags = PFD_DRAW_TO_WINDOW | PFD_SUPPORT_OPENGL | PFD_DOUBLEBUFFER;
 	pfd.iPixelType = PFD_TYPE_RGBA;

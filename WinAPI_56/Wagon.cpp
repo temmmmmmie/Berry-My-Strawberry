@@ -51,8 +51,8 @@ Wagon::Wagon()
 	m_FlipbookPlayer->AddFlipbook(0, AssetMgr::GetInst()->FindFlipbook(L"WAGON"));
 	m_FlipbookPlayer->Play(0, 2, 1);
 
-	m_Collider->SetOffset(Vec2(50, 0));
-	m_Collider->SetScale(Vec2(200, 140.f));
+	m_Collider->SetOffset(Vec2(0, -30));
+	m_Collider->SetScale(Vec2(250, 250.f));
 }
 
 Wagon::~Wagon()

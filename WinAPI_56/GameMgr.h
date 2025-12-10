@@ -3,7 +3,7 @@ class Level_Stage01;
 class Text;
 
 #define TIMELIMIT 120;
-#define STRAWBERRYGOAL 10;
+#define STRAWBERRYGOAL 8;
 #define RABBITINTERVAL 10;
 class GameMgr
 {

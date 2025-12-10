@@ -4,9 +4,13 @@
 #include "TimeMgr.h"
 #include "KeyMgr.h"
 #include "Player.h"
+#include "LevelMgr.h"
 
 #include "FlipbookPlayer.h"
 #include "RigidBody.h"
+#include "Level_Stage01.h"
+
+#include "HitBox.h"
 
 Move_Player::Move_Player()
 {
@@ -36,6 +40,7 @@ void Move_Player::FinalTick()
 	// 敲赋合 犁积 包府
 	CheckAnim();
 	
+
 }
 
 void Move_Player::Exit()
@@ -116,6 +121,22 @@ void Move_Player::CheckAnim()
 	if (KEY_TAP(SPACE))
 	{
 		ITEMS item = OwnerActor->GetHand();
+
+		Player* OwnerActor = dynamic_cast<Player*>(GetOwnerActor());
+		assert(OwnerActor);
+
+		OwnerActor->SetState(PLAYER_STATE::INTERACT);
+
+		DIR Direction = OwnerActor->GetDir();
+		HitBox* pbox = new HitBox(OwnerActor);
+		pbox->SetPos(Vec2(500, 500));
+
+		FlipbookPlayer* pFlipbookPlayer = OwnerActor->GetComponent<FlipbookPlayer>();
+		pFlipbookPlayer->SetSpriteIdx(0);
+		pFlipbookPlayer->SetCallback(bind(&Move_Player::ToIdle, this));
+
+		LevelMgr::GetInst()->GetCurrentLevel()->AddActor(PLAYER_PROJECTILE, pbox);
+
 		switch (item)
 		{
 		case ITEMS::NONE:
@@ -149,4 +170,39 @@ void Move_Player::ChangeFlipbook()
 
 	FlipbookPlayer* pFlipbookPlayer = OwnerActor->GetComponent<FlipbookPlayer>();
 	pFlipbookPlayer->Play((((UINT)OwnerActor->GetHand()) + 6) * 4 + (int)Direction, 15.f, 0);
+}
+
+void Move_Player::ToIdle()
+{
+	Player* OwnerActor = dynamic_cast<Player*>(GetOwnerActor());
+	assert(OwnerActor);
+
+	OwnerActor->SetState(PLAYER_STATE::IDLE);
+
+	DIR Direction = OwnerActor->GetDir();
+
+	FlipbookPlayer* pFlipbookPlayer = OwnerActor->GetComponent<FlipbookPlayer>();
+	pFlipbookPlayer->SetSpriteIdx(0);
+
+	Level* pLevel = LevelMgr::GetInst()->m_CurLevel;
+	Level_Stage01* pCurLevel = dynamic_cast<Level_Stage01*>(pLevel);
+	pCurLevel->ClearActor(PLAYER_PROJECTILE);
+
+	switch (Direction)
+	{
+	case DIR::UP:
+		pFlipbookPlayer->Play(IDLE_UP, 6.f, 0);
+		break;
+	case DIR::LEFT:
+		pFlipbookPlayer->Play(IDLE_LEFT, 6.f, 0);
+		break;
+	case DIR::DOWN:
+		pFlipbookPlayer->Play(IDLE_DOWN, 6.f, 0);
+		break;
+	case DIR::RIGHT:
+		pFlipbookPlayer->Play(IDLE_RIGHT, 6.f, 0);
+		break;
+	}
+	GetOwner()->ChangeState(L"Idle");
+	pFlipbookPlayer->DeleteCallback();
 }

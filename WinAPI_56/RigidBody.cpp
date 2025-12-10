@@ -91,8 +91,8 @@ void RigidBody::Move_TopView()
 
 	if (finalpos.y > 400)
 		finalpos.y = 400;
-	else if (finalpos.y < -250)
-		finalpos.y = -250;
+	else if (finalpos.y < -200)
+		finalpos.y = -200;
 
 	GetOwner()->SetPos(finalpos);
 }

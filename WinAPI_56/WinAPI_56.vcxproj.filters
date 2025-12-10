@@ -309,9 +309,6 @@
     <Filter Include="05. Asset\Sound">
       <UniqueIdentifier>{f9de3401-f553-4afd-9ad6-a76b15687e45}</UniqueIdentifier>
     </Filter>
-    <Filter Include="04. Manager\AssetMgr">
-      <UniqueIdentifier>{96fbb8f9-ccd7-457c-a4a8-feac967a71f2}</UniqueIdentifier>
-    </Filter>
     <Filter Include="05. Asset\Sprite">
       <UniqueIdentifier>{eca97c85-529f-4ce2-93c7-8923569a2261}</UniqueIdentifier>
     </Filter>
@@ -449,6 +446,9 @@
     </Filter>
     <Filter Include="06. Level\05. Ending">
       <UniqueIdentifier>{30a03ecd-5040-4f33-b78e-896ec0eababa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Manager\AssetMgr">
+      <UniqueIdentifier>{96fbb8f9-ccd7-457c-a4a8-feac967a71f2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

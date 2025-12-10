@@ -27,15 +27,19 @@ void HitBox::Tick()
 	{
 	case DIR::DOWN:
 		SetPos(pos + Vec2(0, range));
+		m_Collider->SetScale(Vec2(150.f, 180.f));
 		break;
 	case DIR::LEFT:
 		SetPos(pos + Vec2(-range, 0));
+		m_Collider->SetScale(Vec2(180.f, 150.f));
 		break;
 	case DIR::UP:
 		SetPos(pos + Vec2(0, -range));
+		m_Collider->SetScale(Vec2(150.f, 180.f));
 		break;
 	case DIR::RIGHT:
 		SetPos(pos + Vec2(range, 0));
+		m_Collider->SetScale(Vec2(180.f, 150.f));
 		break;
 	}
 	
@@ -48,7 +52,8 @@ void HitBox::Render(HDC _dc)
 void HitBox::BeginOverlap(Collider* _OwnCollider, Actor* _OtherActor, Collider* _OtherCollider)
 {
 	wstring	name = _OtherActor->GetName();
-	if (_OtherActor->GetActorType() == INTERACTABLE) {
+
+	if (_OtherActor->GetActorType() == INTERACTABLE && m_Player->GetHand() != ITEMS::STRAWBERRY) {
 		if (name == L"Seed") {
 			AssetMgr::GetInst()->FindSound(L"Grabbag")->Play();
 			m_Player->SetHand(ITEMS::SEED);
@@ -72,18 +77,6 @@ void HitBox::BeginOverlap(Collider* _OwnCollider, Actor* _OtherActor, Collider* 
 			return;
 		}
 
-		if (name == L"Wagon"&& m_Player->GetHand() == ITEMS::STRAWBERRY) {
-			m_Player->SetHand(ITEMS::NONE);
-
-			DelayedTask task = {
-				0.25f,
-				0.0f,
-				[this]() { this->CrowCall(); }
-			};
-			GameMgr::GetInst()->AddDelay(task);
-			dynamic_cast<Wagon*>(_OtherActor)->StoreStrawberry();
-			return;
-		}
 
 
 	}
@@ -146,6 +139,18 @@ void HitBox::BeginOverlap(Collider* _OwnCollider, Actor* _OtherActor, Collider* 
 			}
 
 		}
+	}
+	if (name == L"Wagon"&& m_Player->GetHand() == ITEMS::STRAWBERRY) {
+		m_Player->SetHand(ITEMS::NONE);
+
+		DelayedTask task = {
+			0.25f,
+			0.0f,
+			[this]() { this->CrowCall(); }
+		};
+		GameMgr::GetInst()->AddDelay(task);
+		dynamic_cast<Wagon*>(_OtherActor)->StoreStrawberry();
+		return;
 	}
 	else if (m_Player->GetHand() == ITEMS::SWORD &&(_OtherActor->GetActorType() == ENERMY|| _OtherActor->GetActorType() == ENERMY2)) {
 		dynamic_cast<Rabbit*>(_OtherActor)->Die();

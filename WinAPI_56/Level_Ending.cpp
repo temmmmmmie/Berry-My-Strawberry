@@ -12,10 +12,12 @@
 void Level_Ending::Begin()
 {
 	ATexture* Backtex = nullptr;
+	auto cur = GameMgr::GetInst()->GetStrawberry();
+	auto goal = GameMgr::GetInst()->GetStrawberryGoal();
 	if (GameMgr::GetInst()->GetStrawberry() >= GameMgr::GetInst()->GetStrawberryGoal())
-		Backtex = AssetMgr::GetInst()->LoadTexture(L"Ending", L"Texture\\Success.png");
+		Backtex = AssetMgr::GetInst()->LoadTexture(L"Success", L"Texture\\Success.png");
 	else
-		Backtex = AssetMgr::GetInst()->LoadTexture(L"Ending", L"Texture\\Fail.png");
+		Backtex = AssetMgr::GetInst()->LoadTexture(L"Fail", L"Texture\\Fail.png");
 
 	ImageUI* pBackground = new ImageUI;
 	pBackground->SetName(L"Ending");

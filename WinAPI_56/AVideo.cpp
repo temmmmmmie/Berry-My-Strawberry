@@ -11,8 +11,12 @@ AVideo::AVideo()
 
 AVideo::~AVideo()
 {
-   if(frame_data != nullptr) _aligned_free(frame_data);
-
+    if (frame_data != nullptr)
+    {
+       _aligned_free(frame_data);
+       frame_data = nullptr;
+    }
+   auto a = frame_data;
 }
 
 int AVideo::Load(const wstring& _FilePath)

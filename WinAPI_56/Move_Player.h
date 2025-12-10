@@ -11,7 +11,7 @@ public:
 
 private:
     void ChangeFlipbook();
-
+    void ToIdle();
 
 public:
     virtual void Enter() override;

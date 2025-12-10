@@ -117,6 +117,7 @@ void ASound::PlayToBGM(bool _bLoop)
 	AssetMgr::GetInst()->RegisterToBGM(this);
 
 	m_SoundBuffer->SetCurrentPosition(0);
+	SetVolume(10);
 
 	if (_bLoop)
 		m_SoundBuffer->Play(0, 0, DSBPLAY_LOOPING);

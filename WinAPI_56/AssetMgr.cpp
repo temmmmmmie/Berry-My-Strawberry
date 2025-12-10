@@ -408,7 +408,6 @@ void AssetMgr::CreateSpriteAndFlipbook(ATexture* _Atlas, const wstring& _Key, Ve
 }
 void AssetMgr::LoadInitAsset()
 {
-	LoadVideo(L"MovingCrow", L"Video\\MovingCrow", L".mp4");
 	LoadVideo(L"4", L"Video\\4", L".mp4");
 	LoadVideo(L"5", L"Video\\5", L".mp4");
 	LoadVideo(L"MovingAlbentio", L"Video\\MovingAlbentio", L".mp4");
