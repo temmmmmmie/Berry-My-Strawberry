@@ -1,1 +1,266 @@
-﻿  WinAPI_56.vcxproj -> C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\MyGame_Debug.exe
+﻿  AFlipbook.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/AFlipbook.cpp'을(를) 컴파일하는 중)
+  
+  ASound.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\ASound.cpp(48,10): warning C4305: 'return': 'HRESULT'에서 'bool'(으)로 잘립니다.
+  (소스 파일 '/ASound.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\ASound.cpp(79,10): warning C4305: 'return': 'HRESULT'에서 'bool'(으)로 잘립니다.
+  (소스 파일 '/ASound.cpp'을(를) 컴파일하는 중)
+  
+  ASprite.cpp
+  ATexture.cpp
+  AVideo.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/AVideo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/AVideo.cpp'을(를) 컴파일하는 중)
+  
+  Actor.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Actor.cpp(40,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Actor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Actor.cpp(40,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Actor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Actor.cpp(39,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Actor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Actor.cpp(39,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Actor.cpp'을(를) 컴파일하는 중)
+  
+  Animator.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Animator.cpp'을(를) 컴파일하는 중)
+  
+  Asset.cpp
+  AssetMgr.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/AssetMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/AssetMgr.cpp'을(를) 컴파일하는 중)
+  
+  Attack_Player.cpp
+  Attack_Rabbit.cpp
+  Base.cpp
+  BtnUI.cpp
+  Camera.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Camera.cpp'을(를) 컴파일하는 중)
+  
+  Cloud.cpp
+  Collider.cpp
+  CollisionMgr.cpp
+  Component.cpp
+  Die_Rabbit.cpp
+  Engine.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(61,27): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(61,19): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(122,20): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 '/Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(122,20): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(122,28): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 '/Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(122,28): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(130,15): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(131,16): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Engine.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  EventMgr.cpp
+  FlipbookPlayer.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/FlipbookPlayer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/FlipbookPlayer.cpp'을(를) 컴파일하는 중)
+  
+  FlipbookPreview.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/FlipbookPreview.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\FlipbookPreview.cpp(34,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/FlipbookPreview.cpp'을(를) 컴파일하는 중)
+  
+  GameMgr.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\GameMgr.cpp(19,33): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameMgr.cpp'을(를) 컴파일하는 중)
+  
+  Gotcha.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Gotcha.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Gotcha.cpp(45,98): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Gotcha.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Gotcha.cpp(45,64): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Gotcha.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Gotcha.cpp'을(를) 컴파일하는 중)
+      C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Gotcha.cpp(38,14):
+          컴파일되는 함수 템플릿 인스턴스화 'T GetRandomNum<float>(T,T)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=float
+          ]
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(43,10): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Gotcha.cpp'을(를) 컴파일하는 중)
+  
+  Ground.cpp
+  HitBox.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\HitBox.cpp(29,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HitBox.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\HitBox.cpp(33,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HitBox.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\HitBox.cpp(37,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HitBox.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\HitBox.cpp(41,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HitBox.cpp'을(를) 컴파일하는 중)
+  
+  Idle_Player.cpp
+  Idle_Rabbit.cpp
+  ImageUI.cpp
+  Interact_Player.cpp
+  KeyMgr.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\KeyMgr.cpp(107,38): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/KeyMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\KeyMgr.cpp(107,27): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/KeyMgr.cpp'을(를) 컴파일하는 중)
+  
+  Level.cpp
+  LevelMgr.cpp
+  Level_Editor.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Level_Editor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(49,76): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_Editor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(49,55): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_Editor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(109,76): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_Editor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(109,55): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_Editor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(245,12): warning C4244: '=': 'INT_PTR'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_Editor.cpp'을(를) 컴파일하는 중)
+  
+  Level_Ending.cpp
+  Level_FlipbookEditor.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_FlipbookEditor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(44,76): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_FlipbookEditor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(44,55): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_FlipbookEditor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(78,96): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_FlipbookEditor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(78,57): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_FlipbookEditor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(103,76): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_FlipbookEditor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(103,55): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Level_FlipbookEditor.cpp'을(를) 컴파일하는 중)
+  
+  Level_Stage01.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Level_Stage01.cpp'을(를) 컴파일하는 중)
+      C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Stage01.cpp(320,11):
+          컴파일되는 함수 템플릿 인스턴스화 'T GetRandomNum<int>(T,T)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(43,10): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 '/Level_Stage01.cpp'을(를) 컴파일하는 중)
+  
+  Level_Start.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Level_Start.cpp'을(를) 컴파일하는 중)
+  
+  Level_Tutorial.cpp
+  코드를 생성하고 있습니다...
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(236,1): warning C4715: 'MenuButtonCallBackFlip': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(272,1): warning C4715: 'MenuButtonCallBack': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\GameMgr.h(35,1): warning C4715: 'GameMgr::GetStageLevel': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  Missile.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Missile.cpp'을(를) 컴파일하는 중)
+  
+  Move_Player.cpp
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Move_Player.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\MyGame_Debug.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+freetype.lib(ftinit.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftinit.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftbase.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftbase.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(autofit.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(autofit.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(truetype.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(truetype.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(type1.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(type1.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(cff.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(cff.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(type1cid.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(type1cid.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(pfr.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(pfr.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(type42.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(type42.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(winfnt.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(winfnt.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(pcf.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(pcf.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(bdf.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(bdf.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(psaux.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(psaux.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(psmodule.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(psmodule.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(pshinter.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(pshinter.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(sfnt.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(sfnt.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(smooth.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(smooth.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(raster.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(raster.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(sdf.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(sdf.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(svg.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(svg.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftsystem.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftsystem.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftmm.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftmm.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftgzip.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftgzip.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftlzw.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftlzw.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftbitmap.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftbitmap.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftdebug.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftdebug.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  WinAPI_56.vcxproj -> C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\MyGame_Debug.exe

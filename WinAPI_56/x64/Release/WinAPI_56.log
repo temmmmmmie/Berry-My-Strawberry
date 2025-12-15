@@ -1,0 +1,887 @@
+﻿  Actor.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Actor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Actor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Actor.cpp(40,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Actor.cpp(40,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Actor.cpp(39,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Actor.cpp(39,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  AFlipbook.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'AFlipbook.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'AFlipbook.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'AFlipbook.cpp'을(를) 컴파일하는 중)
+  
+  Animator.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Animator.cpp'을(를) 컴파일하는 중)
+  
+  Attack_Rabbit.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Attack_Rabbit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Attack_Rabbit.cpp'을(를) 컴파일하는 중)
+  
+  Cloud.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cloud.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Cloud.cpp'을(를) 컴파일하는 중)
+  
+  Die_Rabbit.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Die_Rabbit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Die_Rabbit.cpp'을(를) 컴파일하는 중)
+  
+  GameMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\GameMgr.cpp(19,33): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Gotcha.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Gotcha.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Gotcha.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Gotcha.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Gotcha.cpp(45,98): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Gotcha.cpp(45,64): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 'Gotcha.cpp'을(를) 컴파일하는 중)
+      C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Gotcha.cpp(38,14):
+          컴파일되는 함수 템플릿 인스턴스화 'T GetRandomNum<float>(T,T)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=float
+          ]
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(43,10): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 'Gotcha.cpp'을(를) 컴파일하는 중)
+  
+  HitBox.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'HitBox.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'HitBox.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\HitBox.cpp(29,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\HitBox.cpp(33,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\HitBox.cpp(37,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\HitBox.cpp(41,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ASound.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ASound.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ASound.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\ASound.cpp(48,10): warning C4305: 'return': 'HRESULT'에서 'bool'(으)로 잘립니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\ASound.cpp(79,10): warning C4305: 'return': 'HRESULT'에서 'bool'(으)로 잘립니다.
+  ASprite.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ASprite.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ASprite.cpp'을(를) 컴파일하는 중)
+  
+  Asset.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Asset.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Asset.cpp'을(를) 컴파일하는 중)
+  
+  AssetMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'AssetMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'AssetMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'AssetMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'AssetMgr.cpp'을(를) 컴파일하는 중)
+  
+  ATexture.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ATexture.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ATexture.cpp'을(를) 컴파일하는 중)
+  
+  Attack_Player.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Attack_Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Attack_Player.cpp'을(를) 컴파일하는 중)
+  
+  AVideo.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'AVideo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'AVideo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'AVideo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'AVideo.cpp'을(를) 컴파일하는 중)
+  
+  Base.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Base.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Base.cpp'을(를) 컴파일하는 중)
+  
+  BtnUI.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'BtnUI.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'BtnUI.cpp'을(를) 컴파일하는 중)
+  
+  Camera.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Camera.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Camera.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Camera.cpp'을(를) 컴파일하는 중)
+  
+  Collider.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Collider.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Collider.cpp'을(를) 컴파일하는 중)
+  
+  CollisionMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'CollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+  Component.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Component.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Component.cpp'을(를) 컴파일하는 중)
+  
+  Engine.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Engine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(61,27): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(61,19): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(122,20): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(122,20): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(122,28): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(122,28): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(130,15): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Engine.cpp(131,16): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EventMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'EventMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'EventMgr.cpp'을(를) 컴파일하는 중)
+  
+  Idle_Rabbit.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Idle_Rabbit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Idle_Rabbit.cpp'을(를) 컴파일하는 중)
+  
+  Interact_Player.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Interact_Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Interact_Player.cpp'을(를) 컴파일하는 중)
+  
+  Level_Ending.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_Ending.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_Ending.cpp'을(를) 컴파일하는 중)
+  
+  Level_Tutorial.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_Tutorial.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_Tutorial.cpp'을(를) 컴파일하는 중)
+  
+  Object.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Object.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Object.cpp'을(를) 컴파일하는 중)
+  
+  Potion_Player.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Potion_Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Potion_Player.cpp'을(를) 컴파일하는 중)
+  
+  Seed_Player.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Seed_Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Seed_Player.cpp'을(를) 컴파일하는 중)
+  
+  SpriteActor.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'SpriteActor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'SpriteActor.cpp'을(를) 컴파일하는 중)
+  
+  FlipbookPlayer.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'FlipbookPlayer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'FlipbookPlayer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'FlipbookPlayer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'FlipbookPlayer.cpp'을(를) 컴파일하는 중)
+  
+  FlipbookPreview.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'FlipbookPreview.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'FlipbookPreview.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'FlipbookPreview.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\FlipbookPreview.cpp(34,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  func.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'func.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'func.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'func.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 'func.cpp'을(를) 컴파일하는 중)
+      C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.cpp(87,12):
+          컴파일되는 함수 템플릿 인스턴스화 'T GetRandomNum<float>(T,T)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=float
+          ]
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(43,10): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 'func.cpp'을(를) 컴파일하는 중)
+  
+  Ground.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Ground.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Ground.cpp'을(를) 컴파일하는 중)
+  
+  Idle_Player.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Idle_Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Idle_Player.cpp'을(를) 컴파일하는 중)
+  
+  ImageUI.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ImageUI.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ImageUI.cpp'을(를) 컴파일하는 중)
+  
+  imgui.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui.cpp'을(를) 컴파일하는 중)
+  
+  imgui_demo.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_demo.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_demo.cpp'을(를) 컴파일하는 중)
+  
+  imgui_draw.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_draw.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_draw.cpp'을(를) 컴파일하는 중)
+  
+  imgui_impl_opengl3.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_impl_opengl3.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_impl_opengl3.cpp'을(를) 컴파일하는 중)
+  
+  imgui_impl_win32.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_impl_win32.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_impl_win32.cpp'을(를) 컴파일하는 중)
+  
+  imgui_tables.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_tables.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_tables.cpp'을(를) 컴파일하는 중)
+  
+  imgui_widgets.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_widgets.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'imgui_widgets.cpp'을(를) 컴파일하는 중)
+  
+  KeyMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'KeyMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'KeyMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\KeyMgr.cpp(107,38): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\KeyMgr.cpp(107,27): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Level.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level.cpp'을(를) 컴파일하는 중)
+  
+  LevelMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'LevelMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'LevelMgr.cpp'을(를) 컴파일하는 중)
+  
+  Level_Editor.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_Editor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_Editor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Level_Editor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(49,76): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(49,55): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(109,76): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(109,55): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(245,12): warning C4244: '=': 'INT_PTR'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Level_FlipbookEditor.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_FlipbookEditor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_FlipbookEditor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_FlipbookEditor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(44,76): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(44,55): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(78,96): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(78,57): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(103,76): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(103,55): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Level_Stage01.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_Stage01.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_Stage01.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 'Level_Stage01.cpp'을(를) 컴파일하는 중)
+      C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(39,5):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Stage01.cpp(320,11):
+          컴파일되는 함수 템플릿 인스턴스화 'T GetRandomNum<int>(T,T)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=int
+          ]
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\func.h(43,10): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  (소스 파일 'Level_Stage01.cpp'을(를) 컴파일하는 중)
+  
+  Level_Start.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_Start.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Level_Start.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Level_Start.cpp'을(를) 컴파일하는 중)
+  
+  main.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+  Missile.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Missile.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Missile.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Missile.cpp'을(를) 컴파일하는 중)
+  
+  Rabbit.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Rabbit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Rabbit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Rabbit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Rabbit.cpp(73,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Move_Player.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Move_Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Move_Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Move_Player.cpp'을(를) 컴파일하는 중)
+  
+  PanelUI.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'PanelUI.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'PanelUI.cpp'을(를) 컴파일하는 중)
+  
+  PathMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'PathMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'PathMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\PathMgr.cpp(25,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pch.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+  Player.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+  RenderMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'RenderMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'RenderMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'RenderMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'RenderMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(17,2): warning C4838: 'ImU32'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(18,2): warning C4838: 'ImU32'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(19,2): warning C4838: 'ImU32'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(20,2): warning C4838: 'ImU32'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(21,2): warning C4838: 'ImU32'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(22,2): warning C4838: 'ImU32'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(208,59): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(208,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(211,67): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(211,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(211,115): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\RenderMgr.cpp(211,95): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RigidBody.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'RigidBody.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'RigidBody.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'RigidBody.cpp'을(를) 컴파일하는 중)
+  
+  ShaderLoader.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ShaderLoader.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'ShaderLoader.cpp'을(를) 컴파일하는 중)
+  
+  SpriteRender.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'SpriteRender.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'SpriteRender.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\AFlipbook.h(13,49): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'SpriteRender.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\SpriteRender.cpp(28,24): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\SpriteRender.cpp(58,67): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\SpriteRender.cpp(58,44): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\SpriteRender.cpp(67,42): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\SpriteRender.cpp(102,67): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\SpriteRender.cpp(102,44): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\SpriteRender.cpp(114,43): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\SpriteRender.cpp(127,107): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\SpriteRender.cpp(127,84): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  State.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'State.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'State.cpp'을(를) 컴파일하는 중)
+  
+  StateMachine.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'StateMachine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'StateMachine.cpp'을(를) 컴파일하는 중)
+  
+  Strawberrry.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Strawberrry.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Strawberrry.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Strawberrry.cpp'을(를) 컴파일하는 중)
+  
+  Text.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Text.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Text.cpp'을(를) 컴파일하는 중)
+  
+  TextMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'TextMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'TextMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TextMgr.cpp(109,48): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TextMgr.cpp(109,31): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TextMgr.cpp(110,39): warning C4244: '인수': 'FT_Int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TextMgr.cpp(110,23): warning C4244: '인수': 'FT_Int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TileActor.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'TileActor.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'TileActor.cpp'을(를) 컴파일하는 중)
+  
+  TileRender.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'TileRender.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'TileRender.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TileRender.cpp(61,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TileRender.cpp(61,26): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TileRender.cpp(63,98): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TileRender.cpp(63,52): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TileRender.cpp(64,94): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TileRender.cpp(64,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TimeMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'TimeMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'TimeMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'TimeMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.cpp(59,39): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tool.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Tool.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Tool.cpp'을(를) 컴파일하는 중)
+  
+  Trace_Rabbit.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Trace_Rabbit.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Trace_Rabbit.cpp'을(를) 컴파일하는 중)
+  
+  UI.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UI.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UI.cpp'을(를) 컴파일하는 중)
+  
+  UIMgr.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UIMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'UIMgr.cpp'을(를) 컴파일하는 중)
+  
+  VideoPlayer.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'VideoPlayer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'VideoPlayer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'VideoPlayer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\TimeMgr.h(21,33): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'VideoPlayer.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\VideoPlayer.cpp(91,41): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\VideoPlayer.cpp(92,50): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\VideoPlayer.cpp(92,41): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\VideoPlayer.cpp(93,44): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  video_reader.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'video_reader.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'video_reader.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\include\libavutil\rational.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'video_reader.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\video_reader.cpp(42,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Wagon.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Wagon.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Wagon.cpp'을(를) 컴파일하는 중)
+  
+  Water_Player.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(24,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Water_Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\struct.h(26,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Water_Player.cpp'을(를) 컴파일하는 중)
+  
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\GameMgr.h(35): warning C4715: 'GameMgr::GetStageLevel': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_FlipbookEditor.cpp(236): warning C4715: 'MenuButtonCallBackFlip': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Jasmine\Desktop\Berry-My-Strawberry\WinAPI_56\Level_Editor.cpp(272): warning C4715: 'MenuButtonCallBack': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  All 5295 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+freetype.lib(ftinit.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftinit.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftbase.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftbase.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(autofit.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(autofit.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(truetype.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(truetype.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(type1.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(type1.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(cff.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(cff.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(type1cid.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(type1cid.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(pfr.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(pfr.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(type42.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(type42.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(winfnt.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(winfnt.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(pcf.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(pcf.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(bdf.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(bdf.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(psaux.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(psaux.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(psmodule.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(psmodule.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(pshinter.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(pshinter.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(sfnt.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(sfnt.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(smooth.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(smooth.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(raster.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(raster.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(sdf.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(sdf.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(svg.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(svg.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftsystem.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftsystem.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftmm.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftmm.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftgzip.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftgzip.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftlzw.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftlzw.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftbitmap.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftbitmap.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+freetype.lib(ftdebug.obj) : warning LNK4099: 'freetype.pdb' PDB를 'freetype.lib(ftdebug.obj)' 또는 'C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\freetype.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  WinAPI_56.vcxproj -> C:\Users\Jasmine\Desktop\Berry-My-Strawberry\OutputFile\Bin\MyGame.exe
