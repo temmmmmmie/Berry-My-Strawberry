@@ -61,6 +61,7 @@ void VideoPlayer::Render()
         if (m_loop) {
             video_reader_seek_frame(&vr_state, 0);
             playback_start_time = chrono::steady_clock::now();
+            pts = 0;
         }
         else
         {
@@ -73,11 +74,13 @@ void VideoPlayer::Render()
     double pt_in_seconds = pts * (double)vr_state.time_base.num / (double)vr_state.time_base.den;
      //현재 경과 시간 계산
     auto now = chrono::steady_clock::now();
-    chrono::duration<double> elapsed = now - playback_start_time;
+    chrono::duration<double> elapsed =  now - playback_start_time;
+    volatile double t = elapsed.count();
+    double delta = pt_in_seconds - t;
 
-    // 프레임 시간보다 남았다면 대기
-    if (pt_in_seconds > elapsed.count()) {
-        this_thread::sleep_for(chrono::duration<double>(pt_in_seconds - elapsed.count()));
+    // 너무 작거나 음수면 sleep 안 함
+    if (delta > 0.001) {
+        this_thread::sleep_for(chrono::duration<double>(delta));
     }
 
     glBindTexture(GL_TEXTURE_2D, m_Curvideo->GetVideoTex());

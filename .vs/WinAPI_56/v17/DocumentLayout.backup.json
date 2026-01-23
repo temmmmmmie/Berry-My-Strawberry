@@ -3,26 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\VideoPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|solutionrelative:WinAPI_56\\VideoPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|solutionrelative:WinAPI_56\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|solutionrelative:WinAPI_56\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|solutionrelative:WinAPI_56\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|solutionrelative:WinAPI_56\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.26100.0\\UCRT\\MEMORY.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.26100.0\\UCRT\\TCHAR.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VideoPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\VideoPlayer.cpp",
+              "RelativeDocumentMoniker": "WinAPI_56\\VideoPlayer.cpp",
+              "ToolTip": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\VideoPlayer.cpp",
+              "RelativeToolTip": "WinAPI_56\\VideoPlayer.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAawD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-23T10:22:13.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "pch.h",
               "DocumentMoniker": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\pch.h",
               "RelativeDocumentMoniker": "WinAPI_56\\pch.h",
@@ -58,54 +61,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-15T17:02:52.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "memory.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\memory.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\memory.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\memory.h",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\memory.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-15T17:02:46.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "tchar.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\tchar.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\tchar.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\tchar.h",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\tchar.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-15T17:02:41.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "framework.h",
-              "DocumentMoniker": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\framework.h",
-              "RelativeDocumentMoniker": "WinAPI_56\\framework.h",
-              "ToolTip": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\framework.h",
-              "RelativeToolTip": "WinAPI_56\\framework.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-15T17:02:35.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\main.cpp",
-              "RelativeDocumentMoniker": "WinAPI_56\\main.cpp",
-              "ToolTip": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\main.cpp",
-              "RelativeToolTip": "WinAPI_56\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-15T17:02:27.935Z"
             }
           ]
         }
