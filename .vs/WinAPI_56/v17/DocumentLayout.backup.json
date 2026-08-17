@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\",
+  "WorkspaceRootPath": "C:\\Users\\Jasmine\\Desktop\\a\\Berry-My-Strawberry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\VideoPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\a\\Berry-My-Strawberry\\WinAPI_56\\VideoPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|solutionrelative:WinAPI_56\\VideoPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\a\\Berry-My-Strawberry\\WinAPI_56\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|solutionrelative:WinAPI_56\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|C:\\Users\\Jasmine\\Desktop\\a\\Berry-My-Strawberry\\WinAPI_56\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F52E920F-71A6-4EE7-950A-15AB857AA30B}|WinAPI_56\\WinAPI_56.vcxproj|solutionrelative:WinAPI_56\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VideoPlayer.cpp",
-              "DocumentMoniker": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\VideoPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\Jasmine\\Desktop\\a\\Berry-My-Strawberry\\WinAPI_56\\VideoPlayer.cpp",
               "RelativeDocumentMoniker": "WinAPI_56\\VideoPlayer.cpp",
-              "ToolTip": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\VideoPlayer.cpp",
+              "ToolTip": "C:\\Users\\Jasmine\\Desktop\\a\\Berry-My-Strawberry\\WinAPI_56\\VideoPlayer.cpp",
               "RelativeToolTip": "WinAPI_56\\VideoPlayer.cpp",
-              "ViewState": "AgIAADUAAAAAAAAAAAAawD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAawE4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-23T10:22:13.033Z",
               "EditorCaption": ""
@@ -41,22 +41,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "pch.h",
-              "DocumentMoniker": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\pch.h",
+              "DocumentMoniker": "C:\\Users\\Jasmine\\Desktop\\a\\Berry-My-Strawberry\\WinAPI_56\\pch.h",
               "RelativeDocumentMoniker": "WinAPI_56\\pch.h",
-              "ToolTip": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\pch.h",
+              "ToolTip": "C:\\Users\\Jasmine\\Desktop\\a\\Berry-My-Strawberry\\WinAPI_56\\pch.h",
               "RelativeToolTip": "WinAPI_56\\pch.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-15T17:02:56.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T17:02:56.22Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Engine.h",
-              "DocumentMoniker": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\Engine.h",
+              "DocumentMoniker": "C:\\Users\\Jasmine\\Desktop\\a\\Berry-My-Strawberry\\WinAPI_56\\Engine.h",
               "RelativeDocumentMoniker": "WinAPI_56\\Engine.h",
-              "ToolTip": "C:\\Users\\Jasmine\\Desktop\\Berry-My-Strawberry\\WinAPI_56\\Engine.h",
+              "ToolTip": "C:\\Users\\Jasmine\\Desktop\\a\\Berry-My-Strawberry\\WinAPI_56\\Engine.h",
               "RelativeToolTip": "WinAPI_56\\Engine.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
